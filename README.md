@@ -64,7 +64,7 @@ No external frameworks or compiled dependencies are needed.
 
 ```bash
 # Clone the repository
-git clone https://github.com/<your-username>/particle-filter-lab.git
+git clone https://github.com/nooelanag/filtro-particulas.git
 cd particle-filter-lab
 
 # (Optional) Create a virtual environment
