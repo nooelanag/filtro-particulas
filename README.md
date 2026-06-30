@@ -1,4 +1,4 @@
-# Particle Filter vs Kalman Filter — Bayesian State Estimation
+# Particle Filter vs Kalman Filter
 
 A Python implementation of **Sequential Importance Sampling (SIS) with systematic resampling** and **Kalman filtering** for tracking a drifting ship using noisy sonar observations. The project provides a complete experimental framework to compare both estimators under varying noise conditions, non-Gaussian disturbances, and computational constraints.
 
